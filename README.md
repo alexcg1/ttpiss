@@ -11,14 +11,7 @@ We'll use some words that my great-granny would be offended by to demonstrate:
 
 If we take [George Carlin's "Filthy Words"](https://katherinephelps.com/wp-content/uploads/2013/05/filthy-words-transcript.pdf) as an input text stream we get:
 
-```
-The original seven words were, ☢️☢️☢️☢️, 💀💀💀💀, 🚫🚫🚫🚫, 💀💀💀💀, 💀💀💀💀sucker, 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯, and 💀💀💀💀. Those are
-the ones that will curve your spine, grow hair on your hands and (laughter) maybe, even bring us,
-God help us, peace without honor (laughter) um, and a bourbon. (laughter)
-And now the first thing that we noticed was that word 💀💀💀💀 was really repeated in there because the
-word ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ is a compound word and it's another form of the word ☢️☢️☢️☢️. (laughter) You want
-to be a purist it doesn't really -- it can't be on the list of basic words.
-```
+> The original seven words were, ☢️☢️☢️☢️, 💀💀💀💀, 🚫🚫🚫🚫, 💀💀💀💀, 💀💀💀💀sucker, 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯, and 💀💀💀💀. Those are the ones that will curve your spine, grow hair on your hands and (laughter) maybe, even bring us, God help us, peace without honor (laughter) um, and a bourbon. (laughter) And now the first thing that we noticed was that word 💀💀💀💀 was really repeated in there because the word ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ is a compound word and it's another form of the word ☢️☢️☢️☢️. (laughter) You want to be a purist it doesn't really -- it can't be on the list of basic words.
 
 ## Usage
 
