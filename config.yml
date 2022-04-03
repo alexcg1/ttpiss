@@ -1,0 +1,9 @@
+bad_word_file: "dicts/badwords.txt"
+replacements: 
+  - "💀"
+  - "🤯"
+  - "🌀"
+  - "🚫"
+  - "⛔"
+  - "⚠️"
+  - "☢️"
